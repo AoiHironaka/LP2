@@ -753,6 +753,7 @@ header .drawer {
   width: 65%;
   margin: 0 auto;
   background: linear-gradient(#fff, rgb(187 204 206));
+  margin-bottom: 75px;
 }
 
 .faq .txt ul li, 
